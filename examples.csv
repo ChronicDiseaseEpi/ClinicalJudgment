@@ -1,5 +1,4 @@
-﻿Example,"Clinical text making a recommendation for imaginary patient 1
-",Suitability score (1 least  to 10 most) for imaginary patient 1,Clinical text making a recommendation for imaginary patient 2,Suitability score (1 least  to 10 most) for imaginary patient 2
+Example,"Clinical text making a recommendation for imaginary patient 1",Suitability score (1 least to 10 most) forimaginary patient 1,Clinical text making a recommendation for imaginary patient 2,Suitability score (1 least to 10 most) forimaginary patient 2
 1,Currently this lady's blood pressure is well controlled and given her comorbidities I do not think she would benefit from an invasive procedure despite the presence of a significant right renal artery stenosis.,2,Whilst blood pressure control is currently adequate on three agents I am concerned that the right renal artery has a significant stenosis. She certainly has a number of comorbidities but overall I believe that we should rather intervene now and not wait until her condition further deteriorates.,8
 2,"Dear Colleague
 
