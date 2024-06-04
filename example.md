@@ -1,3 +1,13 @@
+**Example 8**
+
+*Imaginary patient one* 
+This patient has evidence of mutivessel obstrcutive coronary disease with a background of diabetes. His echocardiogram shows moderate to severe left ventricular impairment. His angiogram shows good targets for revascularisation. His overall syntax score is likely to be high. Overall this patient should proceed to coronary revasculartisation with bypass grafting. Score 9
+
+*Imaginary patient two* 
+Mr X has severe heart failure with an ejection fraction of 25%. He is very symptomatic with exertional dyspnoea. However these symptoms are likely to be multifactorial given his respiratory comorbidities. His QRS duration on the ECG is <150 ms. We have discussed the option of a CRT device for Mr X. He would like to proceed with this. However, i have warned him that this may not improve his symptoms, epsecially given his respiratory pathology. Score 3
+
+
+
 **Example 1**
 
 *Imaginary patient one* 
@@ -65,13 +75,3 @@ This 47 year man presented to the hospital with newly-diagnosed advanced HIV inf
 
 *Imaginary patient two* 
 This 47 year man presented to the hospital with newly-diagnosed advanced HIV infection (CD4 cell count: 14 cells/microlitre), wasting, generalised skin rash, and confusion. On WHO four symptom screen, he reported cough, fever, and night sweats. Lumbar puncture showed high opening pressure, and cryptococcal antigen test was positive, and oral antifungals were commenced. He was unable to produce sputum, and urine LF-LAM was negative. Chest X-ray showed no abnormality. The evidence base for empirical TB treatment reducing risk of death in people living with HIV admitted to hospital is not strong; however, given the urgency of the situation, I think we should at least try this. Score 5
-
-
-
-**Example 8**
-
-*Imaginary patient one* 
-This patient has evidence of mutivessel obstrcutive coronary disease with a background of diabetes. His echocardiogram shows moderate to severe left ventricular impairment. His angiogram shows good targets for revascularisation. His overall syntax score is likely to be high. Overall this patient should proceed to coronary revasculartisation with bypass grafting. Score 9
-
-*Imaginary patient two* 
-Mr X has severe heart failure with an ejection fraction of 25%. He is very symptomatic with exertional dyspnoea. However these symptoms are likely to be multifactorial given his respiratory comorbidities. His QRS duration on the ECG is <150 ms. We have discussed the option of a CRT device for Mr X. He would like to proceed with this. However, i have warned him that this may not improve his symptoms, epsecially given his respiratory pathology. Score 3
