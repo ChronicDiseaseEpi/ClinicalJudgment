@@ -1,4 +1,4 @@
-**Example 8**
+**Example 1**
 
 *Imaginary patient one* 
 This patient has evidence of mutivessel obstrcutive coronary disease with a background of diabetes. His echocardiogram shows moderate to severe left ventricular impairment. His angiogram shows good targets for revascularisation. His overall syntax score is likely to be high. Overall this patient should proceed to coronary revasculartisation with bypass grafting. Score 9
@@ -8,7 +8,7 @@ Mr X has severe heart failure with an ejection fraction of 25%. He is very sympt
 
 
 
-**Example 1**
+**Example 2**
 
 *Imaginary patient one* 
 Currently this lady's blood pressure is well controlled and given her comorbidities I do not think she would benefit from an invasive procedure despite the presence of a significant right renal artery stenosis. Score 2
@@ -18,7 +18,7 @@ Whilst blood pressure control is currently adequate on three agents I am concern
 
 
 
-**Example 2**
+**Example 3**
 
 *Imaginary patient one* 
 Dear Colleague  Thank you for seeing this 91 yr old lady who has had some rectal bleeding and a positive QFit test (98).  She is aware that bowel cancer is in the differential diagnosis and she and her family are eager for investigations.  However, while she is very cognitively bright, she is increasingly frail and unsteady on her feet and at risk of falls.  She has a number of comorbidities such as diabetes, renal impairment and hypertension and takes a large number of medications including ace inhibitors and lives alone.  I therefore have concerns about her suitability for colonoscopy and believe it may be unsafe for her to take the necessary bowel preparation.  I would value your further assessment of her to determine whether alternative forms of investigation might be more appropriate.  Yours sincerely  xxxxxxxx Score 9
@@ -28,7 +28,7 @@ Dear Colleague  Thank you for seeing this Pakistani 70 yr old man who has had so
 
 
 
-**Example 3**
+**Example 4**
 
 *Imaginary patient one* 
 I believe this patient is now ready to initiate their antiretroviral therapy as their TB tests have all come back negative, even though they did complain of loss of weight Score 9
@@ -38,7 +38,7 @@ I believe this patient likely needs to initiate their antiretroviral therapy now
 
 
 
-**Example 4**
+**Example 5**
 
 *Imaginary patient one* 
 I discussed the potential options with Mr X. He has not improved on a trial of steroids, but nonetheless his lung function has plateaued and has not deteriorated further. He remains significantly limited in his functional capacity with an mMRC dyspnoea score of 3, but he is able to live at home with his wife, whereas further deterioration could significantly increase his dependency. As such, we agreed that commencing methotrexate as a steroid-sparing agent would be worthwhile, albeit should there be a further decline in lung function, that this would likely demonstrate that the risks would then be outweighing the benefits and we would stop. Score 3
@@ -48,7 +48,7 @@ Given her significant improvement in both symptoms and radiology since starting 
 
 
 
-**Example 5**
+**Example 6**
 
 *Imaginary patient one* 
 I saw Mr Smith in the clinic today with his wife. We discussed the likelihood that he will develop kidney failure within the next year and that treatment with dialysis and/or kidney transplantation will be necessary. I will refer him for education on kidney replacement therapy and for assessment of dialysis access creation and kidney transplantation assessment. Score 9
@@ -58,7 +58,7 @@ Mr Smith attended the clinic today with his wife. As you know, his kidney functi
 
 
 
-**Example 6**
+**Example 7**
 
 *Imaginary patient one* 
 Question: Should we start TB treatment in this patient despite lack of microbiological confirmation? Patient 1 is a 38-year-old living with HIV with a CD4 cell count of 200. He is originally from Eritrea but has been in the UK for 6 months. He presents with classical symptoms of TB for the past 2 months. To date he has been unable to produce a sputum for microbiological diagnosis (1 poor-quality induced sputum was smear/Xpert negative, cultures ongoing) - however his chest X-ray is suggestive of TB. On balance I think we should go ahead and start TB treatment today, while awaiting cultures / considering bronchoscopy. Patient 1 is previously very fit and well, although he is quite symptomatic currently, and seems likely to tolerate the treatment; he also lives with 3 young children and his wife (who require contact screening) in a small flat with poor ventilation, so there may be secondary benefit in reducing transmission. Furthermore we need to promptly initiate ART in this patient and should not delay in waiting for TB results. He is motivated and understands the likely diagnosis, and has good social support. Score 4
@@ -68,7 +68,7 @@ Question: Should we start TB treatment in this patient despite lack of microbiol
 
 
 
-**Example 7**
+**Example 8**
 
 *Imaginary patient one* 
 This 47 year man presented to the hospital with newly-diagnosed advanced HIV infection (CD4 cell count: 14 cells/microlitre), wasting, generalised skin rash, and confusion. On WHO four symptom screen, he reported cough, fever, and night sweats. Lumbar puncture showed high opening pressure, and cryptococcal antigen test was positive, and oral antifungals were commenced. He was unable to produce sputum, and urine LF-LAM was negative. Chest X-ray showed no abnormality. Given the advanced immunosuppression, suboptimal diagnostics for tuberculosis, and high risk of death, I think we should be proactive and start empirical TB treatment. Score 8
