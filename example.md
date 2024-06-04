@@ -1,3 +1,5 @@
+The following are examples of some really useful responses we received.
+[PLease see here for a link to the survey](https://forms.office.com/e/ppmHtm3NBj).
 **Example 1**
 
 *Imaginary patient one* 
